@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95eba0a490a60f12",
+        "id": "ea7777fb3b81544c",
         "type": "tabs",
         "children": [
           {
-            "id": "bc83c3d4c9627be7",
+            "id": "b51701f8b34ef3f9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/manifest.json",
-                "bFile": ".obsidian/plugins/obsidian-git/manifest.json",
-                "aRef": ""
+                "file": "pcb/Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: manifest.json"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pcb/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Readme"
             }
           },
           {
@@ -178,11 +179,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc83c3d4c9627be7",
+  "active": "b51701f8b34ef3f9",
   "lastOpenFiles": [
-    "pcb/Readme.md",
+    "res/Pasted image 20250615185315.png",
+    "pcb/DRA818v_pcb/~DRA818v_pcb.kicad_pcb.lck",
+    "Readme.md",
+    "res/Pasted image 20250615184913.png",
     "res/Pasted image 20250615161154.png",
-    "res",
-    "Readme.md"
+    "pcb/Readme.md",
+    "pcb/DRA818v_pcb/fp-info-cacheWrAlrO",
+    "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_184721.zip",
+    "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_183910.zip",
+    "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_183013.zip",
+    "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_181603.zip",
+    "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_181042.zip",
+    "pcb/DRA818v_pcb/~_autosave-DRA818v_pcb.kicad_pcb.lck",
+    "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_180033.zip",
+    "pcb/DRA818v_pcb/_autosave-DRA818v_pcb.kicad_pcb"
   ]
 }
