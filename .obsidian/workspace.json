@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pcb/Readme.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pcb/Readme.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,12 +181,12 @@
   },
   "active": "b51701f8b34ef3f9",
   "lastOpenFiles": [
+    "pcb/Readme.md",
     "res/Pasted image 20250615185315.png",
     "pcb/DRA818v_pcb/~DRA818v_pcb.kicad_pcb.lck",
     "Readme.md",
     "res/Pasted image 20250615184913.png",
     "res/Pasted image 20250615161154.png",
-    "pcb/Readme.md",
     "pcb/DRA818v_pcb/fp-info-cacheWrAlrO",
     "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_184721.zip",
     "pcb/DRA818v_pcb/DRA818v_pcb-backups/DRA818v_pcb-2025-06-15_183910.zip",
