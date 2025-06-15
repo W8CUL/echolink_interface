@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "98c8862a8fbaf811",
+    "type": "split",
+    "children": [
+      {
+        "id": "95eba0a490a60f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc83c3d4c9627be7",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/manifest.json",
+                "bFile": ".obsidian/plugins/obsidian-git/manifest.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: manifest.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3fe710f749f93a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e4c4ac05a24bf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc7d907779f6d94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f74ade824cbea46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7472e13cb82345c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9449627a9f74c6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d619113fb03f0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e71204139ec2182",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b8126cb10bd08bd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20250615161154.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20250615161154"
+            }
+          },
+          {
+            "id": "9c0eb838c6bece65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fad5475c44021740",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20250615161154.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20250615161154"
+            }
+          },
+          {
+            "id": "aad6e992fda583d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 656.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bc83c3d4c9627be7",
+  "lastOpenFiles": [
+    "pcb/Readme.md",
+    "res/Pasted image 20250615161154.png",
+    "res",
+    "Readme.md"
+  ]
+}

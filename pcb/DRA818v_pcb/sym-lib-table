@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dra818u")(type "Legacy")(uri "/Users/hasith/Projects/ham_KE8TJE/W8CUL/echolink_interface/pcb/lib/DRA818U_AND_V_Kicad/dra818u.lib")(options "")(descr ""))
+)
